@@ -5,8 +5,8 @@
 # 2. deposit money
 # 3. withdraw money
 #      also tell that how money will be returned
-# transfer money 
-# 4. show details of both bank accounts  after transferring money
+# 4.transfer money 
+# 5. show details of both bank accounts  after transferring money
  
 details=[341042078372,5000,893899389] #list contains following order [cnic, balance, account_no]
 dictionary={"noor":details}
