@@ -94,11 +94,3 @@ if choice_to_transfer=="Yes":
     print(dictionary)
     print("------")
     print("thank you for depositing money!")
-
-
-
-
-
-        
-
-
