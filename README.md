@@ -2,6 +2,8 @@
 
 This **Bank Management System** is a console application written in Python that allows users to manage bank accounts. Users can perform various operations such as adding accounts, depositing money, withdrawing money, transferring money, and viewing account details.
 
+![Architecture Diagram](Bank.png)
+
 ## Features
 
 - **Add Account:** Create a new bank account using the account holder's name and details.
